@@ -43,7 +43,7 @@ Usage
 
 Run the application:
 
-python main.py
+python tool.py
 
 Example:
 
@@ -89,7 +89,7 @@ The application also handles:
 Project Structure
 
 chama-faq-bot/
-├── main.py
+├── tool.py
 ├── requirements.txt
 ├── .env
 ├── .gitignore
